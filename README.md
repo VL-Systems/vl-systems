@@ -14,7 +14,9 @@ My Skills for Data Science:
 - SQL
 - Scikit-learn
 
-Так же мне интересна робототехника и я веду Youtube канал посвященный робототехнике: https://www.youtube.com/channel/UC3J-fu8MlGRjuF6nelsg2eQ
+Так же мне интересна робототехника и я веду Youtube канал посвященный робототехнике: 
+https://www.youtube.com/channel/UC3J-fu8MlGRjuF6nelsg2eQ
+
 #### Kaggle profile:
 https://www.kaggle.com/lebedevav
 
