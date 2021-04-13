@@ -15,6 +15,8 @@ My Skills for Data Science:
 - Scikit-learn
 
 Так же мне интересна робототехника и я веду Youtube канал посвященный робототехнике: https://www.youtube.com/channel/UC3J-fu8MlGRjuF6nelsg2eQ
+#### Kaggle profile:
+https://www.kaggle.com/lebedevav
 
 ### Моя статистика на GitHub: 
 ![My stats for GitHub](https://github-readme-stats.vercel.app/api?username=VL-Systems&count_private=true&hide=contribs&show_icons=true&theme=radical)
