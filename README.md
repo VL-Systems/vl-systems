@@ -20,14 +20,6 @@
 - Написание пользовательского приложения по управлению роботом
 - Фильтрация одометрии за счет imu c использованием фильтра Калмана
 
-Мои скиллы в Data Science: 
-- Pandas 
-- Numpy
-- MatplotLib & Seaborn
-- Keras
-- SQL
-- Scikit-learn
-
 Мой Youtube канал посвященный робототехнике: 
 https://www.youtube.com/channel/UC3J-fu8MlGRjuF6nelsg2eQ
 
